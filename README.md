@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jenkins,docker,github" />
+  </a>
+</p>
+
 # Build a Jenkins container leveraging Docker.
 
 Pre-requisites:
